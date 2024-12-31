@@ -7,7 +7,6 @@ A classic Snake Game built using HTML, CSS, and JavaScript! This game is a fun a
 - Grid-based movement for a retro gaming feel.
 - Dynamic difficulty as the snake grows longer.
 - Particle effects for enhanced visuals.
-- Persistent high score tracking using `localStorage`.
 
 ## 📸 Demo
 ![Snake Game Demo](https://github.com/jyotiprakash17/Snake-Game/assets/snake_game.png)
