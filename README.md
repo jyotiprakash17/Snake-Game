@@ -8,11 +8,6 @@ A classic Snake Game built using HTML, CSS, and JavaScript! This game is a fun a
 - Dynamic difficulty as the snake grows longer.
 - Particle effects for enhanced visuals.
 
-## 📸 Demo
-![Snake Game Demo](https://github.com/jyotiprakash17/Snake-Game/assets/snake_game.png)
-
-**[Play the Game Here!](https://jyotiprakash17.github.io/Snake-Game/)**
-
 ## 🚀 How to Play
 1. **Arrow Keys**: Use the arrow keys to control the snake's movement.
 2. **Objective**: Collect the red food to grow your snake and increase your score.
